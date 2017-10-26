@@ -21,7 +21,7 @@
     "short_name": "Persepolis",
     "offline_enabled": true,
     "permissions": [
-        "<all_urls>",
+        "proxy",
         "webRequest",
         "webRequestBlocking",
         "nativeMessaging",
